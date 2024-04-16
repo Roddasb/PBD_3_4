@@ -1,0 +1,48 @@
+Question 2 A ) Sample Mean Glucose vs. Population Mean Glucose: The sample mean glucose value (134.8) is higher than the population mean glucose value (121.6867627785059). This suggests that the average glucose level in the sample is higher than the average glucose level in the entire population.
+
+Sample Highest Glucose Value vs. Population Highest Glucose: The highest glucose value in the sample (187.0) is lower than the highest glucose value in the population (199.0). This indicates that while the average glucose level in the sample may be higher, the highest glucose value observed in the sample is lower than the highest glucose value observed in the population.
+
+Overall, these results suggest that the sample of 25 observations may have higher average glucose levels compared to the entire population, but it does not have as extreme high glucose values as the population. This interpretation can help in understanding the distribution and characteristics of glucose levels in the sample compared to the population.
+
+Question 2 B ) 
+
+98th Percentile BMI (Sample) vs. 98th Percentile BMI (Population): The 98th percentile BMI value in the sample (40.248) is significantly lower than the 98th percentile BMI value in the population (47.526). This indicates that the BMI distribution in the sample is skewed towards lower values compared to the entire population.
+
+Comparison Using Charts: To visually compare the distribution of BMI values between the sample and the population, you can create histograms or density plots showing the distribution of BMI values for both groups. This will provide a clearer understanding of how the BMI values are distributed and how they differ between the sample and the population.
+
+Overall, the difference in the 98th percentile BMI values suggests that there may be differences in the BMI distribution between the sample and the population. Further analysis and exploration of the BMI distribution using charts or visualizations can provide additional insights into these differences.
+ 
+
+
+Report on the results 
+
+
+The average mean from the bootstrap samples is approximately 69.21, while the population mean is 69.11. The difference between these two values is relatively small, indicating that the bootstrap samples provide a good estimate of the population mean.The average mean blood pressure values calculated from the bootstrap samples are very close to each other and also close to the population mean. This suggests that the bootstrap method is providing estimates that are consistent with the population mean.
+
+
+The average standard deviation from the bootstrap samples is approximately 19.08, while the population standard deviation is 19.34. Again, the difference between these two values is relatively small,
+suggesting that the bootstrap samples accurately estimate the population standard deviation.Similarly, the average standard deviation of blood pressure values from the bootstrap samples is quite similar to each other and also close to the population standard deviation. This indicates that the variability in blood pressure estimates from the bootstrap samples is comparable to the variability in the population
+
+The average percentiles from the bootstrap samples are as follows:The percentile values calculated from the bootstrap samples show some variation but generally align with the percentile values from the population.
+This suggests that the distribution of blood pressure values in the bootstrap samples is similar to the distribution in the population.
+
+0th percentile: 0.06
+25th percentile: 62.97
+50th percentile (median): 71.48
+75th percentile: 79.59
+100th percentile: 110.87
+These percentiles provide insight into the distribution of blood pressure values in the bootstrap samples. The median value (50th percentile) is close to the population median of 72,
+indicating that the bootstrap samples capture the central tendency of the population data. The other percentiles also show similar trends to the population percentiles.
+
+
+Overall, the bootstrap samples provide estimates for blood pressure statistics that are consistent with the population statistics, indicating that the bootstrap method is effective in capturing the characteristics of the population distribution.
+Overall, the statistics from the bootstrap samples closely resemble those from the population data, suggesting that the bootstrap sampling method effectively captures the characteristics of the population distribution.
+
+
+
+
+
+
+
+
+
